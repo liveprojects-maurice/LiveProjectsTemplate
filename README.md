@@ -1,3 +1,8 @@
+# Team Vital
+## wireframes
+1. [bluetooth connect](https://liveprojects-maurice.github.io/LiveProjectsTemplate/bluetooth_export/#/page/start)
+
+
 # LiveProjectsTemplate
 This is a template, which lays out a structure for a main project. It can be used by any team working on an MMU LiveProject.
 This is nawa 
