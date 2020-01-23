@@ -1,6 +1,7 @@
 # Team Vital
 ## wireframes
-1. [bluetooth connect](https://liveprojects-maurice.github.io/LiveProjectsTemplate/bluetooth_export/#/page/start)
+1. [bluetooth (connect]file:///C:/Users/nawa8/Documents/GitHub/LiveProjectsTemplate/documentation/wireframes/evolus_pencil/Instrumentation/index.html#/page/start)
+//(https://liveprojects-maurice.github.io/LiveProjectsTemplate/bluetooth_export/#/page/start)
 
 
 # LiveProjectsTemplate
